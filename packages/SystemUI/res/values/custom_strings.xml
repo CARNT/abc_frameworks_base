@@ -29,6 +29,10 @@
     <!-- ABC Tile Edited 7-6-18 -->
     <string name="quick_settings_abc_label">ABC</string>
 
+    <!-- Notification QS Tile -->
+    <string name="quick_settings_smart_pixels">Smart Pixels</string>
+    <string name="quick_settings_smart_pixels_on_power_save">Auto-enabled Smart Pixels</string>
+
     <!-- High Brightness Mode Tile -->
     <string name="quick_settings_high_brightness">High brightness</string>
 
